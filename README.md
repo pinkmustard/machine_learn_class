@@ -7,8 +7,8 @@
 파일 경로로 인해 데이터와 코드를 같은 폴더에 두시고 코드를 실행하시면 됩니다.
 
 뉴스 긍부정 판별 모델에서 라이브러리 임포트가 많아 해당 라이브러리 설치 명령어입니다.
-pip install gensim
-pip install transformers
-pip install torch==1.10
-conda install -c conda-forge ipywidgets
-conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+- pip install gensim
+- pip install transformers
+- pip install torch==1.10
+- conda install -c conda-forge ipywidgets
+- conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
